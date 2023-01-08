@@ -1,0 +1,7 @@
+com\generic\CreateFunctionTest.class
+com\generic\Delete.class
+com\generic\Read.class
+com\report\ExtentReportAutomation.class
+com\generic\Update.class
+com\generic\CreateReviewFinal.class
+com\generic\CreateReview.class
