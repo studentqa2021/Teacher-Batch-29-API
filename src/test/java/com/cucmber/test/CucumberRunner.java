@@ -6,7 +6,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 @CucumberOptions(
 		plugin={"json:target/cucumber.json"},
 		features ={"src/main/resources/API Post Test.feature"},
-		glue={"com.cuucmber.test"},
+		glue={"com.cucmber.test"},
 		
 		//other options
 		monochrome = true
